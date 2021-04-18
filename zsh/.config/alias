@@ -1,0 +1,16 @@
+alias vi=nvim
+alias vim=nvim
+alias ls='ls --color=auto'
+alias ll='ls -la'
+alias la='ls -A'
+alias df='df -h'
+alias du='du -hs'
+alias unzip='7z x'
+alias zip='7z a'
+alias free='free -h'
+alias s='sudo -E'
+alias ss='sudo -E -s'
+alias e=nvim
+alias se='sudo -e'
+alias pi='sudo pacman -Sy'
+alias pu='sudo pacman -Syu'
